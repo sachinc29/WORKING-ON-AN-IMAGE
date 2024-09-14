@@ -1,6 +1,6 @@
 <H3>Name: SACHIN C </H3>
 <H3>Register no: 212222230125</H3>
-<H3>Date: </H3>
+<H3>Date: 14.9.24 </H3>
 
 # WORKING ON AN IMAGE
 
