@@ -32,11 +32,14 @@ image1_resized[0:200, 0:200] = R8
 image2_resized[200:400, 200:400] = R3
 plt.imshow(image1_resized)
 plt.show()
+plt.imshow(image2_resized)
+plt.show()
 ```
 
 # OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/677f2ae8-1e61-4577-9460-f35716fcaf3b)
 
+![image](https://github.com/user-attachments/assets/52a48eb6-8ec2-4bbc-967f-813cb51b536c)
 
  
